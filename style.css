@@ -1,7 +1,7 @@
 /*corps du document*/
 
 body {
-    background-image: url(1.jpg);
+    background: url(1.jpg) no-repeat;
     font-size: 30px;
     background-size: cover
 }
